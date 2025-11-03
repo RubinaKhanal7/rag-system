@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.
+
+Machine Learning is a subset of AI that focuses on the development of computer programs that can access data and use it to learn for themselves.
+
+Deep Learning is a subset of machine learning that uses neural networks with many layers to analyze various factors in large amounts of data.
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand, interpret and manipulate human language.
