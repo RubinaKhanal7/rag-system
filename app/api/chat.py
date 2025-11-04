@@ -8,11 +8,9 @@ from typing import Optional
 
 router = APIRouter(prefix="/api/chat", tags=["Conversational RAG"])
 
-
 class ChatRequest(BaseModel):
     session_id: str
     query: str
-
 
 class BookingRequest(BaseModel):
     name: str
