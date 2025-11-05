@@ -1,4 +1,4 @@
-README.md# RAG System API
+RAG System API
 
 A FastAPI-based Retrieval-Augmented Generation system with document ingestion and conversational chat capabilities.
 
